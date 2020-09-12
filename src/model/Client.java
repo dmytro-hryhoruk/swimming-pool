@@ -2,9 +2,9 @@ package model;
 
 public final class Client {
     private Long id;
-    final private String name;
-    final private String surname;
-    final private double temperature;
+    private final String name;
+    private final String surname;
+    private final double temperature;
     private Integer balance;
     private Long passId;
 
